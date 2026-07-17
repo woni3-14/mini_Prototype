@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
 import numpy as np
 
-st.set_page_config(page_title="Time Step 시계열 분석", layout="wide")
-st.title("Time Step 기반 시계열 분석 (라벨 확정 데이터)")
+st.set_page_config(page_title="Bitcoin 이상거래 시계열 분석", layout="wide")
+st.title("Bitcoin 이상거래 시계열 분석")
 
 # ============================================================
 # 데이터 로드 및 전처리 (캐싱)
